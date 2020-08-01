@@ -1,4 +1,4 @@
-Link for Firegram App: https://agitated-tereshkova-d422b4.netlify.app/
+Link for Firegram App: https://jolly-khorana-199269.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
