@@ -1,5 +1,6 @@
 import React from 'react';
 import { projectFirestore } from '../firebase/config';
+
 import { motion } from 'framer-motion';
 
 const DeleteModal = ({ deleteImg, setDeleteImg }) => {
